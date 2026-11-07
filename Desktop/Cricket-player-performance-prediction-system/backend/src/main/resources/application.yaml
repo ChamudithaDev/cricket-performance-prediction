@@ -1,0 +1,45 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cricket_prediction_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: root
+    password: ""
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+
+jwt:
+  secret: ${JWT_SECRET:change-this-to-a-long-random-secret}
+  expiration-ms: 86400000
+
+ml-service:
+  base-url: ${ML_SERVICE_URL:http://localhost:5000}
+  autostart:
+    enabled: ${ML_SERVICE_AUTOSTART_ENABLED:true}
+    project-dir: ${ML_SERVICE_PROJECT_DIR:C:\Users\Chamuditha\Desktop\Cricket-player-performance-prediction-system\ml-service}
+    python-path: ${ML_SERVICE_PYTHON_PATH:}
+    entry-point: ${ML_SERVICE_ENTRY_POINT:app.py}
+    port: ${ML_SERVICE_PORT:5000}
+    health-url: ${ML_SERVICE_HEALTH_URL:http://localhost:5000/api/ml/health}
+    timeout-seconds: ${ML_SERVICE_STARTUP_TIMEOUT_SECONDS:30}
+    poll-interval-ms: ${ML_SERVICE_POLL_INTERVAL_MS:500}
+
+cricket:
+  api:
+    base-url: ${CRICKET_API_BASE_URL:https://api.cricapi.com/v1}
+    key: ${CRICKET_API_KEY:6ee33aba-a58d-44b9-83e3-3d2af675b0e8}
+
+analytics:
+  batting-csv: ${BATTING_CSV_PATH:../ml-service/data/batting_performance.csv}
+  bowling-csv: ${BOWLING_CSV_PATH:../ml-service/data/bowling_performance.csv}
+  cricsheet-matches-csv: ${CRICSHEET_MATCHES_CSV_PATH:../ml-service/data/cricsheet_matches.csv}
+  toss-advisor:
+    min-sample-size: ${TOSS_ADVISOR_MIN_SAMPLE_SIZE:5}
+    threshold-pp: ${TOSS_ADVISOR_THRESHOLD_PP:5.0}
+    window-years: ${TOSS_ADVISOR_WINDOW_YEARS:2}

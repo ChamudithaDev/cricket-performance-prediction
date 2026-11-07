@@ -1,0 +1,413 @@
+match_id,format,match_type,date,team1,team2,venue,city,winner
+1385700,odi,ODI,2024-09-19,England,Australia,"Trent Bridge, Nottingham",Nottingham,Australia
+1385701,odi,ODI,2024-09-21,Australia,England,"Headingley, Leeds",Leeds,Australia
+1385702,odi,ODI,2024-09-24,Australia,England,"Riverside Ground, Chester-le-Street",Chester-le-Street,England
+1385703,odi,ODI,2024-09-27,England,Australia,"Lord's, London",London,England
+1385704,odi,ODI,2024-09-29,England,Australia,"County Ground, Bristol",Bristol,Australia
+1426549,odi,ODI,2024-11-04,Pakistan,Australia,Melbourne Cricket Ground,Melbourne,Australia
+1426550,odi,ODI,2024-11-08,Australia,Pakistan,Adelaide Oval,Adelaide,Pakistan
+1426551,odi,ODI,2024-11-10,Australia,Pakistan,Perth Stadium,Perth,Pakistan
+1431088,odi,ODI,2024-10-02,South Africa,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,South Africa
+1431089,odi,ODI,2024-10-04,South Africa,Ireland,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,South Africa
+1431090,odi,ODI,2024-10-07,Ireland,South Africa,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Ireland
+1432214,odi,ODI,2024-12-17,South Africa,Pakistan,"Boland Park, Paarl",Paarl,Pakistan
+1432215,odi,ODI,2024-12-19,Pakistan,South Africa,"Newlands, Cape Town",Cape Town,Pakistan
+1432216,odi,ODI,2024-12-22,Pakistan,South Africa,"The Wanderers Stadium, Johannesburg",Johannesburg,Pakistan
+1433370,odi,ODI,2024-10-31,England,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies
+1433371,odi,ODI,2024-11-02,West Indies,England,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,England
+1433372,odi,ODI,2024-11-06,England,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies
+1433380,odi,ODI,2024-12-08,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,West Indies
+1433381,odi,ODI,2024-12-10,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,West Indies
+1433382,odi,ODI,2024-12-12,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,West Indies
+1439904,odi,ODI,2025-02-06,England,India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,India
+1439905,odi,ODI,2025-02-09,England,India,"Barabati Stadium, Cuttack",Cuttack,India
+1439906,odi,ODI,2025-02-12,India,England,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India
+1442220,odi,ODI,2025-02-08,New Zealand,Pakistan,"Gaddafi Stadium, Lahore",Lahore,New Zealand
+1442221,odi,ODI,2025-02-10,South Africa,New Zealand,"Gaddafi Stadium, Lahore",Lahore,New Zealand
+1442222,odi,ODI,2025-02-12,South Africa,Pakistan,"National Stadium, Karachi",Karachi,Pakistan
+1442223,odi,ODI,2025-02-14,Pakistan,New Zealand,"National Stadium, Karachi",Karachi,New Zealand
+1442990,odi,ODI,2024-08-02,Sri Lanka,India,"R Premadasa Stadium, Colombo",Colombo,No result / Draw
+1442991,odi,ODI,2024-08-04,Sri Lanka,India,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1442992,odi,ODI,2024-08-07,Sri Lanka,India,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1443546,odi,ODI,2025-01-05,Sri Lanka,New Zealand,"Basin Reserve, Wellington",Wellington,New Zealand
+1443547,odi,ODI,2025-01-08,New Zealand,Sri Lanka,"Seddon Park, Hamilton",Hamilton,New Zealand
+1443548,odi,ODI,2025-01-11,Sri Lanka,New Zealand,"Eden Park, Auckland",Auckland,Sri Lanka
+1443554,odi,ODI,2025-03-29,New Zealand,Pakistan,"McLean Park, Napier",Napier,New Zealand
+1443555,odi,ODI,2025-04-02,New Zealand,Pakistan,"Seddon Park, Hamilton",Hamilton,New Zealand
+1443556,odi,ODI,2025-04-05,New Zealand,Pakistan,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand
+1444649,odi,ODI,2024-11-24,Zimbabwe,Pakistan,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe
+1444650,odi,ODI,2024-11-26,Zimbabwe,Pakistan,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan
+1444651,odi,ODI,2024-11-28,Pakistan,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan
+1448343,odi,ODI,2025-05-29,England,West Indies,"Edgbaston, Birmingham",Birmingham,England
+1448344,odi,ODI,2025-06-01,West Indies,England,"Sophia Gardens, Cardiff",Cardiff,England
+1448345,odi,ODI,2025-06-03,West Indies,England,"Kennington Oval, London",London,England
+1448354,odi,ODI,2025-09-02,England,South Africa,"Headingley, Leeds",Leeds,South Africa
+1448355,odi,ODI,2025-09-04,South Africa,England,"Lord's, London",London,South Africa
+1448356,odi,ODI,2025-09-07,England,South Africa,"The Rose Bowl, Southampton",Southampton,England
+1451817,odi,ODI,2024-10-20,West Indies,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka
+1451818,odi,ODI,2024-10-23,West Indies,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka
+1451819,odi,ODI,2024-10-26,Sri Lanka,West Indies,Pallekele International Cricket Stadium,Kandy,West Indies
+1456443,odi,ODI,2024-11-13,Sri Lanka,New Zealand,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka
+1456444,odi,ODI,2024-11-17,New Zealand,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka
+1456445,odi,ODI,2024-11-19,New Zealand,Sri Lanka,Pallekele International Cricket Stadium,Kandy,No result / Draw
+1459908,odi,ODI,2025-02-12,Sri Lanka,Australia,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1466414,odi,ODI,2025-02-19,New Zealand,Pakistan,"National Stadium, Karachi",Karachi,New Zealand
+1466415,odi,ODI,2025-02-20,Bangladesh,India,Dubai International Cricket Stadium,Dubai,India
+1466417,odi,ODI,2025-02-22,England,Australia,"Gaddafi Stadium, Lahore",Lahore,Australia
+1466418,odi,ODI,2025-02-23,Pakistan,India,Dubai International Cricket Stadium,Dubai,India
+1466419,odi,ODI,2025-02-24,Bangladesh,New Zealand,Rawalpindi Cricket Stadium,Rawalpindi,New Zealand
+1466424,odi,ODI,2025-03-01,England,South Africa,"National Stadium, Karachi",Karachi,South Africa
+1466425,odi,ODI,2025-03-02,India,New Zealand,Dubai International Cricket Stadium,Dubai,India
+1466426,odi,ODI,2025-03-04,Australia,India,Dubai International Cricket Stadium,Dubai,India
+1466427,odi,ODI,2025-03-05,New Zealand,South Africa,"Gaddafi Stadium, Lahore",Lahore,New Zealand
+1466428,odi,ODI,2025-03-09,New Zealand,India,Dubai International Cricket Stadium,Dubai,India
+1467701,odi,ODI,2025-02-14,Zimbabwe,Ireland,Harare Sports Club,Harare,Zimbabwe
+1467702,odi,ODI,2025-02-16,Zimbabwe,Ireland,Harare Sports Club,Harare,Ireland
+1467703,odi,ODI,2025-02-18,Ireland,Zimbabwe,Harare Sports Club,Harare,Zimbabwe
+1469168,odi,ODI,2025-02-14,Sri Lanka,Australia,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1472511,odi,ODI,2025-05-21,Ireland,West Indies,"Castle Avenue, Dublin",Dublin,Ireland
+1472512,odi,ODI,2025-05-23,West Indies,Ireland,"Castle Avenue, Dublin",Dublin,No result / Draw
+1472513,odi,ODI,2025-05-25,West Indies,Ireland,"Castle Avenue, Dublin",Dublin,West Indies
+1472528,odi,ODI,2025-08-08,West Indies,Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Pakistan
+1472529,odi,ODI,2025-08-10,Pakistan,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies
+1472530,odi,ODI,2025-08-12,West Indies,Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies
+1478901,odi,ODI,2025-08-19,South Africa,Australia,"Cazaly's Stadium, Cairns",Cairns,South Africa
+1478902,odi,ODI,2025-08-22,South Africa,Australia,"Great Barrier Reef Arena, Mackay",Mackay,South Africa
+1478903,odi,ODI,2025-08-24,Australia,South Africa,"Great Barrier Reef Arena, Mackay",Mackay,Australia
+1478904,odi,ODI,2025-10-19,India,Australia,Perth Stadium,Perth,Australia
+1478905,odi,ODI,2025-10-23,India,Australia,Adelaide Oval,Adelaide,Australia
+1478906,odi,ODI,2025-10-25,Australia,India,Sydney Cricket Ground,Sydney,India
+1479573,odi,ODI,2025-11-30,India,South Africa,"JSCA International Stadium Complex, Ranchi",Ranchi,India
+1479574,odi,ODI,2025-12-03,India,South Africa,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,South Africa
+1479575,odi,ODI,2025-12-06,South Africa,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India
+1485505,odi,ODI,2025-07-02,Sri Lanka,Bangladesh,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1485506,odi,ODI,2025-07-05,Bangladesh,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Bangladesh
+1485507,odi,ODI,2025-07-08,Sri Lanka,Bangladesh,Pallekele International Cricket Stadium,Kandy,Sri Lanka
+1490231,odi,ODI,2026-01-11,New Zealand,India,"Kotambi Stadium, Vadodara",Vadodara,India
+1490232,odi,ODI,2026-01-14,India,New Zealand,"Niranjan Shah Stadium, Rajkot",Rajkot,New Zealand
+1490233,odi,ODI,2026-01-18,New Zealand,India,"Holkar Cricket Stadium, Indore",Indore,New Zealand
+1491720,odi,ODI,2025-10-26,England,New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand
+1491721,odi,ODI,2025-10-29,England,New Zealand,"Seddon Park, Hamilton",Hamilton,New Zealand
+1491722,odi,ODI,2025-11-01,England,New Zealand,"Sky Stadium, Wellington",Wellington,New Zealand
+1491728,odi,ODI,2025-11-16,New Zealand,West Indies,"Hagley Oval, Christchurch",Christchurch,New Zealand
+1491729,odi,ODI,2025-11-19,West Indies,New Zealand,"McLean Park, Napier",Napier,New Zealand
+1491730,odi,ODI,2025-11-22,West Indies,New Zealand,"Seddon Park, Hamilton",Hamilton,New Zealand
+1492821,odi,ODI,2025-08-29,Sri Lanka,Zimbabwe,Harare Sports Club,Harare,Sri Lanka
+1492822,odi,ODI,2025-08-31,Zimbabwe,Sri Lanka,Harare Sports Club,Harare,Sri Lanka
+1496579,odi,ODI,2026-07-14,England,India,"Edgbaston, Birmingham",Birmingham,India
+1496580,odi,ODI,2026-07-16,India,England,"Sophia Gardens, Cardiff",Cardiff,England
+1496581,odi,ODI,2026-07-19,England,India,"Lord's, London",London,England
+1501898,odi,ODI,2025-11-04,South Africa,Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan
+1501899,odi,ODI,2025-11-06,Pakistan,South Africa,"Iqbal Stadium, Faisalabad",Faisalabad,South Africa
+1501900,odi,ODI,2025-11-08,South Africa,Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,Pakistan
+1502167,odi,ODI,2025-11-11,Pakistan,Sri Lanka,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1502168,odi,ODI,2025-11-14,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1502169,odi,ODI,2025-11-16,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1505122,odi,ODI,2025-10-18,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1505123,odi,ODI,2025-10-21,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",Dhaka,No result / Draw
+1505124,odi,ODI,2025-10-23,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1507716,odi,ODI,2026-01-22,Sri Lanka,England,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1507717,odi,ODI,2026-01-24,Sri Lanka,England,"R Premadasa Stadium, Colombo",Colombo,England
+1507718,odi,ODI,2026-01-27,England,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,England
+1525652,odi,ODI,2026-03-11,Pakistan,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1525653,odi,ODI,2026-03-13,Pakistan,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan
+1525654,odi,ODI,2026-03-15,Bangladesh,Pakistan,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1528272,odi,ODI,2026-04-17,New Zealand,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,New Zealand
+1528273,odi,ODI,2026-04-20,New Zealand,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1528274,odi,ODI,2026-04-23,Bangladesh,New Zealand,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Bangladesh
+1532480,odi,ODI,2026-06-09,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1532481,odi,ODI,2026-06-11,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1532482,odi,ODI,2026-06-14,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",Dhaka,Australia
+1535645,odi,ODI,2026-05-30,Australia,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1535646,odi,ODI,2026-06-02,Australia,Pakistan,"Gaddafi Stadium, Lahore",Lahore,Australia
+1535647,odi,ODI,2026-06-04,Australia,Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1538298,odi,ODI,2026-07-06,Zimbabwe,Bangladesh,Harare Sports Club,Harare,Zimbabwe
+1538299,odi,ODI,2026-07-09,Zimbabwe,Bangladesh,Harare Sports Club,Harare,Zimbabwe
+1538300,odi,ODI,2026-07-11,Zimbabwe,Bangladesh,Harare Sports Club,Harare,Bangladesh
+1538304,odi,ODI,2026-06-03,Sri Lanka,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,Sri Lanka
+1538624,odi,ODI,2026-07-11,New Zealand,West Indies,"Providence Stadium, Guyana",Providence,West Indies
+1538625,odi,ODI,2026-07-13,West Indies,New Zealand,"Providence Stadium, Guyana",Providence,New Zealand
+1538626,odi,ODI,2026-07-16,West Indies,New Zealand,"Providence Stadium, Guyana",Providence,New Zealand
+1538627,odi,ODI,2026-07-19,West Indies,New Zealand,"Kensington Oval, Bridgetown, Barbados",Bridgetown,New Zealand
+1538628,odi,ODI,2026-07-21,New Zealand,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies
+1385697,t20i,T20,2024-09-11,Australia,England,"The Rose Bowl, Southampton",Southampton,Australia
+1385698,t20i,T20,2024-09-13,Australia,England,"Sophia Gardens, Cardiff",Cardiff,England
+1426552,t20i,T20,2024-11-14,Australia,Pakistan,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia
+1426553,t20i,T20,2024-11-16,Australia,Pakistan,Sydney Cricket Ground,Sydney,Australia
+1426554,t20i,T20,2024-11-18,Pakistan,Australia,"Bellerive Oval, Hobart",Hobart,Australia
+1431086,t20i,T20,2024-09-27,Ireland,South Africa,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,South Africa
+1431087,t20i,T20,2024-09-29,Ireland,South Africa,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Ireland
+1432211,t20i,T20,2024-12-10,South Africa,Pakistan,"Kingsmead, Durban",Durban,South Africa
+1432212,t20i,T20,2024-12-13,Pakistan,South Africa,"SuperSport Park, Centurion",Centurion,South Africa
+1433367,t20i,T20,2024-08-23,South Africa,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies
+1433368,t20i,T20,2024-08-25,West Indies,South Africa,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies
+1433369,t20i,T20,2024-08-27,South Africa,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies
+1433373,t20i,T20,2024-11-09,West Indies,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown,England
+1433374,t20i,T20,2024-11-10,West Indies,England,"Kensington Oval, Bridgetown, Barbados",Bridgetown,England
+1433375,t20i,T20,2024-11-14,West Indies,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,England
+1433376,t20i,T20,2024-11-16,England,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies
+1433377,t20i,T20,2024-11-17,West Indies,England,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,No result / Draw
+1433383,t20i,T20,2024-12-15,Bangladesh,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,Bangladesh
+1433384,t20i,T20,2024-12-17,Bangladesh,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,Bangladesh
+1433385,t20i,T20,2024-12-19,Bangladesh,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,Bangladesh
+1439893,t20i,T20,2024-10-06,Bangladesh,India,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",Gwalior,India
+1439894,t20i,T20,2024-10-09,India,Bangladesh,"Arun Jaitley Stadium, Delhi",Delhi,India
+1439895,t20i,T20,2024-10-12,India,Bangladesh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,India
+1439899,t20i,T20,2025-01-22,England,India,"Eden Gardens, Kolkata",Kolkata,India
+1439900,t20i,T20,2025-01-25,England,India,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,India
+1439901,t20i,T20,2025-01-28,England,India,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,England
+1439902,t20i,T20,2025-01-31,India,England,"Maharashtra Cricket Association Stadium, Pune",Pune,India
+1439903,t20i,T20,2025-02-02,India,England,"Wankhede Stadium, Mumbai",Mumbai,India
+1442989,t20i,T20,2024-07-30,India,Sri Lanka,Pallekele International Cricket Stadium,Kandy,No result / Draw
+1443543,t20i,T20,2024-12-28,New Zealand,Sri Lanka,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand
+1443544,t20i,T20,2024-12-30,New Zealand,Sri Lanka,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand
+1443545,t20i,T20,2025-01-02,Sri Lanka,New Zealand,"Saxton Oval, Nelson",Nelson,Sri Lanka
+1443549,t20i,T20,2025-03-16,Pakistan,New Zealand,"Hagley Oval, Christchurch",Christchurch,New Zealand
+1443550,t20i,T20,2025-03-18,Pakistan,New Zealand,"University Oval, Dunedin",Dunedin,New Zealand
+1443551,t20i,T20,2025-03-21,New Zealand,Pakistan,"Eden Park, Auckland",Auckland,Pakistan
+1443552,t20i,T20,2025-03-23,New Zealand,Pakistan,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand
+1443553,t20i,T20,2025-03-26,Pakistan,New Zealand,"Sky Stadium, Wellington",Wellington,New Zealand
+1444652,t20i,T20,2024-12-01,Pakistan,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan
+1444653,t20i,T20,2024-12-03,Zimbabwe,Pakistan,"Queens Sports Club, Bulawayo",Bulawayo,Pakistan
+1444654,t20i,T20,2024-12-05,Pakistan,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe
+1448346,t20i,T20,2025-06-06,England,West Indies,"Riverside Ground, Chester-le-Street",Chester-le-Street,England
+1448347,t20i,T20,2025-06-08,West Indies,England,"County Ground, Bristol",Bristol,England
+1448348,t20i,T20,2025-06-10,England,West Indies,"The Rose Bowl, Southampton",Southampton,England
+1448357,t20i,T20,2025-09-10,South Africa,England,"Sophia Gardens, Cardiff",Cardiff,South Africa
+1448358,t20i,T20,2025-09-12,England,South Africa,"Old Trafford, Manchester",Manchester,England
+1448360,t20i,T20,2025-09-17,Ireland,England,"The Village, Malahide, Dublin",Dublin,England
+1448362,t20i,T20,2025-09-21,Ireland,England,"The Village, Malahide, Dublin",Dublin,England
+1449301,t20i,T20,2024-11-08,India,South Africa,"Kingsmead, Durban",Durban,India
+1449302,t20i,T20,2024-11-10,India,South Africa,"St George's Park, Gqeberha",Gqeberha,South Africa
+1449303,t20i,T20,2024-11-13,India,South Africa,"SuperSport Park, Centurion",Centurion,India
+1449304,t20i,T20,2024-11-15,India,South Africa,"The Wanderers Stadium, Johannesburg",Johannesburg,India
+1451814,t20i,T20,2024-10-13,Sri Lanka,West Indies,Rangiri Dambulla International Stadium,Dambulla,West Indies
+1451815,t20i,T20,2024-10-15,Sri Lanka,West Indies,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka
+1451816,t20i,T20,2024-10-17,West Indies,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka
+1456441,t20i,T20,2024-11-09,New Zealand,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka
+1456442,t20i,T20,2024-11-10,New Zealand,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,New Zealand
+1467704,t20i,T20,2025-02-22,Zimbabwe,Ireland,Harare Sports Club,Harare,No result / Draw
+1467705,t20i,T20,2025-02-23,Ireland,Zimbabwe,Harare Sports Club,Harare,Zimbabwe
+1467706,t20i,T20,2025-02-25,Zimbabwe,Ireland,Harare Sports Club,Harare,No result / Draw
+1472516,t20i,T20,2025-06-15,West Indies,Ireland,"Bready Cricket Club, Magheramason, Bready",Bready,West Indies
+1472520,t20i,T20,2025-07-20,West Indies,Australia,"Sabina Park, Kingston, Jamaica",Kingston,Australia
+1472521,t20i,T20,2025-07-22,West Indies,Australia,"Sabina Park, Kingston, Jamaica",Kingston,Australia
+1472522,t20i,T20,2025-07-25,West Indies,Australia,"Warner Park, Basseterre, St Kitts",Basseterre,Australia
+1472523,t20i,T20,2025-07-26,West Indies,Australia,"Warner Park, Basseterre, St Kitts",Basseterre,Australia
+1472524,t20i,T20,2025-07-28,West Indies,Australia,"Warner Park, Basseterre, St Kitts",Basseterre,Australia
+1472525,t20i,T20,2025-07-31,Pakistan,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan
+1472526,t20i,T20,2025-08-02,Pakistan,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,West Indies
+1472527,t20i,T20,2025-08-03,Pakistan,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Pakistan
+1477609,t20i,T20,2026-01-27,West Indies,South Africa,"Boland Park, Paarl",Paarl,South Africa
+1477610,t20i,T20,2026-01-29,West Indies,South Africa,"SuperSport Park, Centurion",Centurion,South Africa
+1477611,t20i,T20,2026-01-31,West Indies,South Africa,"The Wanderers Stadium, Johannesburg",Johannesburg,West Indies
+1478865,t20i,T20,2025-07-14,Zimbabwe,South Africa,Harare Sports Club,Harare,South Africa
+1478866,t20i,T20,2025-07-16,New Zealand,South Africa,Harare Sports Club,Harare,New Zealand
+1478867,t20i,T20,2025-07-18,Zimbabwe,New Zealand,Harare Sports Club,Harare,New Zealand
+1478868,t20i,T20,2025-07-20,Zimbabwe,South Africa,Harare Sports Club,Harare,South Africa
+1478869,t20i,T20,2025-07-22,South Africa,New Zealand,Harare Sports Club,Harare,New Zealand
+1478870,t20i,T20,2025-07-24,New Zealand,Zimbabwe,Harare Sports Club,Harare,New Zealand
+1478871,t20i,T20,2025-07-26,New Zealand,South Africa,Harare Sports Club,Harare,New Zealand
+1478898,t20i,T20,2025-08-10,Australia,South Africa,"Marrara Stadium, Darwin",Darwin,Australia
+1478899,t20i,T20,2025-08-12,South Africa,Australia,"Marrara Stadium, Darwin",Darwin,South Africa
+1478900,t20i,T20,2025-08-16,South Africa,Australia,"Cazaly's Stadium, Cairns",Cairns,Australia
+1478907,t20i,T20,2025-10-29,India,Australia,"Manuka Oval, Canberra",Canberra,No result / Draw
+1478908,t20i,T20,2025-10-31,India,Australia,Melbourne Cricket Ground,Melbourne,Australia
+1478909,t20i,T20,2025-11-02,Australia,India,"Bellerive Oval, Hobart",Hobart,India
+1478910,t20i,T20,2025-11-06,India,Australia,Carrara Oval,Carrara,India
+1478911,t20i,T20,2025-11-08,India,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,No result / Draw
+1479576,t20i,T20,2025-12-09,India,South Africa,"Barabati Stadium, Cuttack",Cuttack,India
+1479577,t20i,T20,2025-12-11,South Africa,India,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,South Africa
+1479578,t20i,T20,2025-12-14,South Africa,India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,India
+1479580,t20i,T20,2025-12-19,India,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India
+1483785,t20i,T20,2025-05-28,Pakistan,Bangladesh,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1483786,t20i,T20,2025-05-30,Pakistan,Bangladesh,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1483787,t20i,T20,2025-06-01,Bangladesh,Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1485508,t20i,T20,2025-07-10,Bangladesh,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka
+1485509,t20i,T20,2025-07-13,Bangladesh,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,Bangladesh
+1485510,t20i,T20,2025-07-16,Sri Lanka,Bangladesh,"R Premadasa Stadium, Colombo",Colombo,Bangladesh
+1490234,t20i,T20,2026-01-21,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,India
+1490235,t20i,T20,2026-01-23,New Zealand,India,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,India
+1490236,t20i,T20,2026-01-25,New Zealand,India,"Barsapara Cricket Stadium, Guwahati",Guwahati,India
+1490237,t20i,T20,2026-01-28,New Zealand,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,New Zealand
+1490238,t20i,T20,2026-01-31,India,New Zealand,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India
+1491714,t20i,T20,2025-10-01,New Zealand,Australia,"Bay Oval, Mount Maunganui",Mount Maunganui,Australia
+1491715,t20i,T20,2025-10-03,Australia,New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,No result / Draw
+1491716,t20i,T20,2025-10-04,New Zealand,Australia,"Bay Oval, Mount Maunganui",Mount Maunganui,Australia
+1491717,t20i,T20,2025-10-18,England,New Zealand,"Hagley Oval, Christchurch",Christchurch,No result / Draw
+1491718,t20i,T20,2025-10-20,England,New Zealand,"Hagley Oval, Christchurch",Christchurch,England
+1491719,t20i,T20,2025-10-23,New Zealand,England,"Eden Park, Auckland",Auckland,No result / Draw
+1491723,t20i,T20,2025-11-05,West Indies,New Zealand,"Eden Park, Auckland",Auckland,West Indies
+1491724,t20i,T20,2025-11-06,New Zealand,West Indies,"Eden Park, Auckland",Auckland,New Zealand
+1491725,t20i,T20,2025-11-09,New Zealand,West Indies,"Saxton Oval, Nelson",Nelson,New Zealand
+1491726,t20i,T20,2025-11-10,West Indies,New Zealand,"Saxton Oval, Nelson",Nelson,No result / Draw
+1491727,t20i,T20,2025-11-13,West Indies,New Zealand,"University Oval, Dunedin",Dunedin,New Zealand
+1491735,t20i,T20,2026-03-15,New Zealand,South Africa,"Bay Oval, Mount Maunganui",Mount Maunganui,South Africa
+1491736,t20i,T20,2026-03-17,New Zealand,South Africa,"Seddon Park, Hamilton",Hamilton,New Zealand
+1491737,t20i,T20,2026-03-20,South Africa,New Zealand,"Eden Park, Auckland",Auckland,New Zealand
+1491738,t20i,T20,2026-03-22,South Africa,New Zealand,"Sky Stadium, Wellington",Wellington,South Africa
+1491739,t20i,T20,2026-03-25,South Africa,New Zealand,"Hagley Oval, Christchurch",Christchurch,South Africa
+1491903,t20i,T20,2025-07-20,Pakistan,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1491904,t20i,T20,2025-07-22,Bangladesh,Pakistan,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1491905,t20i,T20,2025-07-24,Pakistan,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan
+1492823,t20i,T20,2025-09-03,Zimbabwe,Sri Lanka,Harare Sports Club,Harare,Sri Lanka
+1492824,t20i,T20,2025-09-06,Sri Lanka,Zimbabwe,Harare Sports Club,Harare,Zimbabwe
+1492825,t20i,T20,2025-09-07,Zimbabwe,Sri Lanka,Harare Sports Club,Harare,Sri Lanka
+1496574,t20i,T20,2026-07-01,India,England,"Riverside Ground, Chester-le-Street",Chester-le-Street,No result / Draw
+1496575,t20i,T20,2026-07-04,India,England,"Old Trafford, Manchester",Manchester,England
+1496576,t20i,T20,2026-07-07,England,India,"Trent Bridge, Nottingham",Nottingham,England
+1496577,t20i,T20,2026-07-09,India,England,"County Ground, Bristol",Bristol,England
+1496578,t20i,T20,2026-07-11,England,India,"The Rose Bowl, Southampton",Southampton,England
+1496924,t20i,T20,2025-09-13,Bangladesh,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Sri Lanka
+1496925,t20i,T20,2025-09-14,Pakistan,India,Dubai International Cricket Stadium,Dubai,India
+1496932,t20i,T20,2025-09-20,Sri Lanka,Bangladesh,Dubai International Cricket Stadium,Dubai,Bangladesh
+1496933,t20i,T20,2025-09-21,Pakistan,India,Dubai International Cricket Stadium,Dubai,India
+1496934,t20i,T20,2025-09-23,Sri Lanka,Pakistan,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Pakistan
+1496935,t20i,T20,2025-09-24,India,Bangladesh,Dubai International Cricket Stadium,Dubai,India
+1496936,t20i,T20,2025-09-25,Pakistan,Bangladesh,Dubai International Cricket Stadium,Dubai,Pakistan
+1496937,t20i,T20,2025-09-26,India,Sri Lanka,Dubai International Cricket Stadium,Dubai,No result / Draw
+1496938,t20i,T20,2025-09-28,Pakistan,India,Dubai International Cricket Stadium,Dubai,India
+1501895,t20i,T20,2025-10-28,South Africa,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,South Africa
+1501896,t20i,T20,2025-10-31,South Africa,Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1501897,t20i,T20,2025-11-01,South Africa,Pakistan,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1502048,t20i,T20,2025-11-18,Zimbabwe,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1502049,t20i,T20,2025-11-20,Zimbabwe,Sri Lanka,Rawalpindi Cricket Stadium,Rawalpindi,Zimbabwe
+1502050,t20i,T20,2025-11-22,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1502051,t20i,T20,2025-11-23,Pakistan,Zimbabwe,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1502052,t20i,T20,2025-11-25,Zimbabwe,Sri Lanka,Rawalpindi Cricket Stadium,Rawalpindi,Sri Lanka
+1502053,t20i,T20,2025-11-27,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Sri Lanka
+1502054,t20i,T20,2025-11-29,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1505125,t20i,T20,2025-10-27,West Indies,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,West Indies
+1505126,t20i,T20,2025-10-29,West Indies,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,West Indies
+1505127,t20i,T20,2025-10-31,Bangladesh,West Indies,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,West Indies
+1506014,t20i,T20,2025-11-27,Ireland,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Ireland
+1506015,t20i,T20,2025-11-29,Ireland,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Bangladesh
+1506016,t20i,T20,2025-12-02,Ireland,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Bangladesh
+1507719,t20i,T20,2026-01-30,Sri Lanka,England,Pallekele International Cricket Stadium,Kandy,England
+1507720,t20i,T20,2026-02-01,Sri Lanka,England,Pallekele International Cricket Stadium,Kandy,England
+1507721,t20i,T20,2026-02-03,England,Sri Lanka,Pallekele International Cricket Stadium,Kandy,England
+1512724,t20i,T20,2026-02-08,Sri Lanka,Ireland,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka
+1512732,t20i,T20,2026-02-11,Australia,Ireland,"R Premadasa Stadium, Colombo",Colombo,Australia
+1512733,t20i,T20,2026-02-11,West Indies,England,"Wankhede Stadium, Mumbai",Mumbai,West Indies
+1512737,t20i,T20,2026-02-13,Zimbabwe,Australia,"R Premadasa Stadium, Colombo",Colombo,Zimbabwe
+1512742,t20i,T20,2026-02-14,New Zealand,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,South Africa
+1512745,t20i,T20,2026-02-15,India,Pakistan,"R Premadasa Stadium, Colombo",Colombo,India
+1512748,t20i,T20,2026-02-16,Australia,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Sri Lanka
+1512756,t20i,T20,2026-02-19,Sri Lanka,Zimbabwe,"R Premadasa Stadium, Colombo",Colombo,Zimbabwe
+1512760,t20i,T20,2026-02-22,England,Sri Lanka,Pallekele International Cricket Stadium,Kandy,England
+1512761,t20i,T20,2026-02-22,South Africa,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,South Africa
+1512762,t20i,T20,2026-02-23,West Indies,Zimbabwe,"Wankhede Stadium, Mumbai",Mumbai,West Indies
+1512763,t20i,T20,2026-02-24,Pakistan,England,Pallekele International Cricket Stadium,Kandy,England
+1512764,t20i,T20,2026-02-25,New Zealand,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,New Zealand
+1512765,t20i,T20,2026-02-26,West Indies,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,South Africa
+1512766,t20i,T20,2026-02-26,India,Zimbabwe,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,India
+1512767,t20i,T20,2026-02-27,New Zealand,England,"R Premadasa Stadium, Colombo",Colombo,England
+1512768,t20i,T20,2026-02-28,Pakistan,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Pakistan
+1512769,t20i,T20,2026-03-01,Zimbabwe,South Africa,"Arun Jaitley Stadium, Delhi",Delhi,South Africa
+1512770,t20i,T20,2026-03-01,West Indies,India,"Eden Gardens, Kolkata",Kolkata,India
+1512771,t20i,T20,2026-03-04,South Africa,New Zealand,"Eden Gardens, Kolkata",Kolkata,New Zealand
+1512772,t20i,T20,2026-03-05,India,England,"Wankhede Stadium, Mumbai",Mumbai,India
+1512773,t20i,T20,2026-03-08,India,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India
+1514480,t20i,T20,2026-01-07,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,Dambulla,Pakistan
+1514482,t20i,T20,2026-01-11,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,Dambulla,Sri Lanka
+1519636,t20i,T20,2026-01-29,Pakistan,Australia,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1519637,t20i,T20,2026-01-31,Pakistan,Australia,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1519638,t20i,T20,2026-02-01,Pakistan,Australia,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1528275,t20i,T20,2026-04-27,New Zealand,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Bangladesh
+1528277,t20i,T20,2026-05-02,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",Dhaka,New Zealand
+1528548,t20i,T20,2026-06-26,Ireland,India,"Civil Service Cricket Club, Stormont, Belfast",Belfast,Ireland
+1528549,t20i,T20,2026-06-28,Ireland,India,"Civil Service Cricket Club, Stormont, Belfast",Belfast,Ireland
+1530060,t20i,T20,2026-07-23,Zimbabwe,India,Harare Sports Club,Harare,India
+1530061,t20i,T20,2026-07-25,India,Zimbabwe,Harare Sports Club,Harare,India
+1530062,t20i,T20,2026-07-26,India,Zimbabwe,Harare Sports Club,Harare,India
+1532483,t20i,T20,2026-06-17,Bangladesh,Australia,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Australia
+1532484,t20i,T20,2026-06-19,Australia,Bangladesh,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Australia
+1532485,t20i,T20,2026-06-21,Bangladesh,Australia,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,Australia
+1538301,t20i,T20,2026-07-15,Zimbabwe,Bangladesh,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe
+1538302,t20i,T20,2026-07-17,Bangladesh,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Bangladesh
+1538303,t20i,T20,2026-07-19,Zimbabwe,Bangladesh,"Queens Sports Club, Bulawayo",Bulawayo,Bangladesh
+1538307,t20i,T20,2026-06-11,Sri Lanka,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,West Indies
+1538308,t20i,T20,2026-06-13,Sri Lanka,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,Sri Lanka
+1538309,t20i,T20,2026-06-14,Sri Lanka,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,West Indies
+1385694,test,Test,2024-08-21,Sri Lanka,England,"Old Trafford, Manchester",Manchester,England
+1385695,test,Test,2024-08-29,England,Sri Lanka,"Lord's, London",London,England
+1385696,test,Test,2024-09-06,England,Sri Lanka,"Kennington Oval, London",London,Sri Lanka
+1392691,test,Test,2025-05-22,England,Zimbabwe,"Trent Bridge, Nottingham",Nottingham,England
+1426555,test,Test,2024-11-22,India,Australia,Perth Stadium,Perth,India
+1426556,test,Test,2024-12-06,India,Australia,Adelaide Oval,Adelaide,Australia
+1426557,test,Test,2024-12-14,Australia,India,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,No result / Draw
+1426558,test,Test,2024-12-26,Australia,India,Melbourne Cricket Ground,Melbourne,Australia
+1426559,test,Test,2025-01-03,India,Australia,Sydney Cricket Ground,Sydney,Australia
+1428554,test,Test,2024-11-28,New Zealand,England,"Hagley Oval, Christchurch",Christchurch,England
+1428555,test,Test,2024-12-06,England,New Zealand,"Basin Reserve, Wellington",Wellington,England
+1428556,test,Test,2024-12-14,New Zealand,England,"Seddon Park, Hamilton",Hamilton,New Zealand
+1432209,test,Test,2024-11-27,South Africa,Sri Lanka,"Kingsmead, Durban",Durban,South Africa
+1432210,test,Test,2024-12-05,South Africa,Sri Lanka,"St George's Park, Gqeberha",Gqeberha,South Africa
+1432217,test,Test,2024-12-26,Pakistan,South Africa,"SuperSport Park, Centurion",Centurion,South Africa
+1432218,test,Test,2025-01-03,South Africa,Pakistan,"Newlands, Cape Town",Cape Town,South Africa
+1433365,test,Test,2024-08-07,South Africa,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,No result / Draw
+1433366,test,Test,2024-08-15,South Africa,West Indies,"Providence Stadium, Guyana",Providence,South Africa
+1433378,test,Test,2024-11-22,West Indies,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies
+1433379,test,Test,2024-11-30,Bangladesh,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,Bangladesh
+1439891,test,Test,2024-09-19,India,Bangladesh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,India
+1439892,test,Test,2024-09-27,Bangladesh,India,"Green Park, Kanpur",Kanpur,India
+1439896,test,Test,2024-10-16,India,New Zealand,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,New Zealand
+1439897,test,Test,2024-10-24,New Zealand,India,"Maharashtra Cricket Association Stadium, Pune",Pune,New Zealand
+1439898,test,Test,2024-11-01,New Zealand,India,"Wankhede Stadium, Mumbai",Mumbai,New Zealand
+1442213,test,Test,2024-08-21,Pakistan,Bangladesh,Rawalpindi Cricket Stadium,Rawalpindi,Bangladesh
+1442214,test,Test,2024-08-30,Pakistan,Bangladesh,Rawalpindi Cricket Stadium,Rawalpindi,Bangladesh
+1442215,test,Test,2024-10-07,Pakistan,England,Multan Cricket Stadium,Multan,England
+1442216,test,Test,2024-10-15,Pakistan,England,Multan Cricket Stadium,Multan,Pakistan
+1442217,test,Test,2024-10-24,England,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan
+1442218,test,Test,2025-01-17,Pakistan,West Indies,Multan Cricket Stadium,Multan,Pakistan
+1442219,test,Test,2025-01-25,West Indies,Pakistan,Multan Cricket Stadium,Multan,West Indies
+1447096,test,Test,2024-09-18,Sri Lanka,New Zealand,Galle International Stadium,Galle,Sri Lanka
+1447097,test,Test,2024-09-26,Sri Lanka,New Zealand,Galle International Stadium,Galle,Sri Lanka
+1448349,test,Test,2025-06-20,India,England,"Headingley, Leeds",Leeds,England
+1448350,test,Test,2025-07-02,India,England,"Edgbaston, Birmingham",Birmingham,India
+1448351,test,Test,2025-07-10,England,India,"Lord's, London",London,England
+1448352,test,Test,2025-07-23,India,England,"Old Trafford, Manchester",Manchester,No result / Draw
+1448353,test,Test,2025-07-31,India,England,"Kennington Oval, London",London,India
+1449769,test,Test,2025-06-11,Australia,South Africa,"Lord's, London",London,South Africa
+1453293,test,Test,2024-10-21,Bangladesh,South Africa,"Shere Bangla National Stadium, Mirpur",Dhaka,South Africa
+1453294,test,Test,2024-10-29,South Africa,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,South Africa
+1455611,test,Test,2025-11-21,England,Australia,Perth Stadium,Perth,Australia
+1455612,test,Test,2025-12-04,England,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia
+1455613,test,Test,2025-12-17,Australia,England,Adelaide Oval,Adelaide,Australia
+1455614,test,Test,2025-12-26,Australia,England,Melbourne Cricket Ground,Melbourne,England
+1455615,test,Test,2026-01-04,England,Australia,Sydney Cricket Ground,Sydney,Australia
+1459906,test,Test,2025-01-29,Australia,Sri Lanka,Galle International Stadium,Galle,Australia
+1459907,test,Test,2025-02-06,Sri Lanka,Australia,Galle International Stadium,Galle,Australia
+1467700,test,Test,2025-02-06,Ireland,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Ireland
+1472517,test,Test,2025-06-25,Australia,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Australia
+1472518,test,Test,2025-07-03,Australia,West Indies,"National Cricket Stadium, St George's, Grenada",St George's,Australia
+1472519,test,Test,2025-07-12,Australia,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,Australia
+1476409,test,Test,2025-04-20,Bangladesh,Zimbabwe,Sylhet International Cricket Stadium,Sylhet,Zimbabwe
+1476410,test,Test,2025-04-28,Zimbabwe,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Bangladesh
+1478863,test,Test,2025-06-28,South Africa,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,South Africa
+1478864,test,Test,2025-07-06,South Africa,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,South Africa
+1478872,test,Test,2025-07-30,Zimbabwe,New Zealand,"Queens Sports Club, Bulawayo",Bulawayo,New Zealand
+1478873,test,Test,2025-08-07,Zimbabwe,New Zealand,"Queens Sports Club, Bulawayo",Bulawayo,New Zealand
+1479569,test,Test,2025-10-02,West Indies,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India
+1479570,test,Test,2025-10-10,India,West Indies,"Arun Jaitley Stadium, Delhi",Delhi,India
+1479571,test,Test,2025-11-14,South Africa,India,"Eden Gardens, Kolkata",Kolkata,South Africa
+1479572,test,Test,2025-11-22,South Africa,India,"Barsapara Cricket Stadium, Guwahati",Guwahati,South Africa
+1485503,test,Test,2025-06-17,Bangladesh,Sri Lanka,Galle International Stadium,Galle,No result / Draw
+1485504,test,Test,2025-06-25,Bangladesh,Sri Lanka,"Sinhalese Sports Club Ground, Colombo",Colombo,Sri Lanka
+1491732,test,Test,2025-12-02,New Zealand,West Indies,"Hagley Oval, Christchurch",Christchurch,No result / Draw
+1491733,test,Test,2025-12-10,West Indies,New Zealand,"Basin Reserve, Wellington",Wellington,New Zealand
+1491734,test,Test,2025-12-18,New Zealand,West Indies,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand
+1496571,test,Test,2026-06-04,England,New Zealand,"Lord's, London",London,England
+1496572,test,Test,2026-06-17,New Zealand,England,"Kennington Oval, London",London,New Zealand
+1496573,test,Test,2026-06-25,New Zealand,England,"Trent Bridge, Nottingham",Nottingham,New Zealand
+1501893,test,Test,2025-10-12,Pakistan,South Africa,"Gaddafi Stadium, Lahore",Lahore,Pakistan
+1501894,test,Test,2025-10-20,Pakistan,South Africa,Rawalpindi Cricket Stadium,Rawalpindi,South Africa
+1506012,test,Test,2025-11-11,Ireland,Bangladesh,Sylhet International Cricket Stadium,Sylhet,Bangladesh
+1506013,test,Test,2025-11-19,Bangladesh,Ireland,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1528547,test,Test,2026-05-27,New Zealand,Ireland,"Civil Service Cricket Club, Stormont, Belfast",Belfast,New Zealand
+1532486,test,Test,2026-05-08,Bangladesh,Pakistan,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh
+1532487,test,Test,2026-05-16,Bangladesh,Pakistan,Sylhet International Cricket Stadium,Sylhet,Bangladesh
+1538297,test,Test,2026-06-28,Bangladesh,Zimbabwe,Harare Sports Club,Harare,Zimbabwe
+1538311,test,Test,2026-06-25,Sri Lanka,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies
+1538312,test,Test,2026-07-03,Sri Lanka,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,No result / Draw
+1538630,test,Test,2026-07-25,West Indies,Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies

@@ -1,0 +1,13 @@
+# Test profile — referenced by @ActiveProfiles("test") if used on any @SpringBootTest.
+# Currently all integration tests are pure unit tests that don't load a Spring context.
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cricket_prediction_db_test
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+
+ml-service:
+  autostart:
+    enabled: false

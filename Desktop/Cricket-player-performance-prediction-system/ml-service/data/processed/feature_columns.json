@@ -1,0 +1,16 @@
+{
+  "features": [
+    "avg_runs_last_5",
+    "avg_sr_last_5",
+    "avg_wickets_last_5",
+    "avg_economy_last_5",
+    "career_matches_played",
+    "career_avg_runs",
+    "venue_avg_runs",
+    "opponent_avg_runs",
+    "match_type_odi",
+    "match_type_t20i",
+    "match_type_test"
+  ],
+  "target": "runs"
+}

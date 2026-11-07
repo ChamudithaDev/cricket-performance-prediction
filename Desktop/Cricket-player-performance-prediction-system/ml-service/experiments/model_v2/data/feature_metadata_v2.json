@@ -1,0 +1,75 @@
+{
+  "experiment_version": "model_v2",
+  "target": "runs",
+  "features": [
+    "avg_runs_last_5",
+    "avg_sr_last_5",
+    "avg_wickets_last_5",
+    "avg_economy_last_5",
+    "career_matches_played",
+    "career_avg_runs",
+    "venue_avg_runs",
+    "opponent_avg_runs",
+    "match_type_odi",
+    "match_type_t20i",
+    "match_type_test"
+  ],
+  "scaled_features_for_distance_models": [
+    "avg_runs_last_5_scaled",
+    "avg_sr_last_5_scaled",
+    "avg_wickets_last_5_scaled",
+    "avg_economy_last_5_scaled",
+    "career_matches_played_scaled",
+    "career_avg_runs_scaled",
+    "venue_avg_runs_scaled",
+    "opponent_avg_runs_scaled",
+    "match_type_odi",
+    "match_type_t20i",
+    "match_type_test"
+  ],
+  "numeric_features": [
+    "avg_runs_last_5",
+    "avg_sr_last_5",
+    "avg_wickets_last_5",
+    "avg_economy_last_5",
+    "career_matches_played",
+    "career_avg_runs",
+    "venue_avg_runs",
+    "opponent_avg_runs"
+  ],
+  "categorical_binary_features": [
+    "match_type_odi",
+    "match_type_t20i",
+    "match_type_test"
+  ],
+  "train_period": [
+    "2024-07-30",
+    "2025-10-31"
+  ],
+  "val_period": [
+    "2025-11-01",
+    "2026-01-28"
+  ],
+  "test_period": [
+    "2026-01-29",
+    "2026-07-26"
+  ],
+  "train_rows": 5526,
+  "val_rows": 1286,
+  "test_rows": 1966,
+  "tier_bins": [
+    0.0,
+    1.0,
+    10.0,
+    33.0,
+    430.0
+  ],
+  "tier_classes": [
+    "Average",
+    "Excellent",
+    "Good",
+    "Poor"
+  ],
+  "global_train_career_prior": 23.362287368802026,
+  "bayes_shrinkage_weight": 3.0
+}
